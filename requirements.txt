@@ -1,0 +1,6 @@
+streamlit
+ollama
+pillow
+pandas
+openpyxl
+altair
